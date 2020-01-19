@@ -1,0 +1,2 @@
+# discordbot
+hi kids test
